@@ -31,6 +31,7 @@ This project predicts student performance based on various input features using 
 ![download](https://github.com/user-attachments/assets/c6a110b3-bfc3-42b3-a0f5-30c159f3e156)
 
 
+
 Unique values in 'Extracurricular Activities' before encoding: ['Yes' 'No']
 Encoded values for 'Extracurricular Activities': [1 0]
 LabelEncoder classes: ['No' 'Yes']
