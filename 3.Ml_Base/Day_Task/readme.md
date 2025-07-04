@@ -1,11 +1,14 @@
-Student Performance Prediction with Decision Tree
+# 🎓 Student Performance Prediction using Decision Tree
 
-Features
+This project predicts student performance based on various input features using a Decision Tree model. It includes insightful visualizations, model saving capabilities, and error handling for robust deployment.
 
--Predicts student performance using a Decision Tree.
--Generates Visualizations:
-Decision Tree Structure: Shows how the model decides.
--Actual vs. Predicted Plot: Compares predictions to actual values.
--Feature Importance Plot: Highlights which features matter most.
--Saves the model and encoder for reuse.
--Includes error handling for robust predictions.
+## 🚀 Features
+
+- ✅ **Predicts student performance** using a Decision Tree Classifier or Regressor.
+- 🌳 **Decision Tree Structure Visualization** to understand the model's decision-making.
+- 📊 **Actual vs. Predicted Plot** for comparing real and predicted values.
+- 🔍 **Feature Importance Plot** to highlight key influential features.
+- 💾 **Model and Encoder Saving** using `joblib` for future reuse.
+- 🛡️ **Error Handling** to ensure stability during predictions.
+
+
