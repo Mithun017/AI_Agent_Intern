@@ -1,0 +1,3 @@
+groq api = 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
+
+ngrok =ngrok config add-authtoken 2rl3Xl0lj0IGNXJVONRHyHLGRpC_tyHAXnASbMP4nantt5Ai
